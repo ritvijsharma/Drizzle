@@ -185,14 +185,5 @@ Peers on the network discover each other (in terms of usernames and IPs) through
 -   Private messaging
 
 ## Screenshots
-
-![Welcome Screen (new user)](./docs/media/welcome.png)
-![Basic Setup (new user)](./docs/media/basic_config.png)
-![UI](./docs/media/ui.png)
-![Chat](./docs/media/chat.png)
-![Item Info Dialog](./docs/media/item_info.png)
-![Item Downloading](./docs/media/downloading.png)
-![User Consent Dialog](./docs/media/user_ack.png)
-![Accepted File Download Successful](./docs/media/acked.png)
 # Drizzle
 # Drizzle
